@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Diction</string>
+
+    // Strings for the main page
+    <string name="titleLabel">Hello there. Welcome to Diction, a word document app tailored
+        for blind people. Please select any of the following choices:</string>
+    <string name="Title">Diction</string>
+    <string name="backgroundDescription">The backgorund of the app</string>
+    <string name="tutorialBtn">Tutorial</string>
+    <string name="wordBtn">Document</string>
+    <string name="repeatOptions">If you would like me to repeat the options. Please say
+    repeat.</string>
+    <string name="options">Tutorial, Document. If you would like me to repeat the options again.
+    Please say repeat.</string>
+
+    // Strings For Word Doc
+    <string name="documentSpeak">If you would like to change the font, say font. If you would like
+    to change the text size, say Size. If you would like to start writing, say Document.
+    If you would like to hear what you have written, say speak. If you would like to go
+    back to the main page say back.</string>
+    <string name="font">Font</string>
+    <string name="fontChnage">Font Changed</string>
+    <string name="fontSelect">Please select your font</string>
+    <string name="fontSize">Please select you text size</string>
+    <string name="sizeChange">Size Changed</string>
+    <string name="enterDoc">Document Entered.</string>
+
+</resources>
